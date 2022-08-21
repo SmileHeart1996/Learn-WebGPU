@@ -1,0 +1,10 @@
+{
+    "main": "main.js",
+    "dependencies": {
+      "@antv/g": "latest",
+      "@antv/g-plugin-gpgpu": "latest",
+      "@antv/g-webgl": "latest",
+      "@antv/g-webgpu": "latest"
+    },
+    "devDependencies": {}
+}
