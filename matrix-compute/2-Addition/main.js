@@ -138,3 +138,4 @@
     const arrayBuffer = gpuReadBuffer.getMappedRange();
     console.log(new Float32Array(arrayBuffer));
 })();
+
